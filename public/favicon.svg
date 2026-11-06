@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Atelier Odonto</title>
+  <rect width="64" height="64" rx="16" fill="#0b1118"/>
+  <path d="M16 45 28 17h8l12 28h-7l-2.3-6H25.3L23 45h-7Zm11.8-12h8.4L32 22.4 27.8 33Z" fill="#f5f0e8"/>
+  <circle cx="45" cy="18" r="4" fill="#7bc7ce"/>
+</svg>
